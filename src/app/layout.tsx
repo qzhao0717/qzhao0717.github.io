@@ -33,6 +33,9 @@ export async function generateMetadata(): Promise<Metadata> {
       description: config.site.description,
       siteName: `${config.author.name}'s Academic Website`,
     },
+    verification: {
+      google: '<meta name="google-site-verification" content="GffrHPvcghmHuuXLntc2oADFVQBAL_1jijBR6obYeSA" />'
+    },
   };
 }
 
