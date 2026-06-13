@@ -1,0 +1,18 @@
+type = "card"
+title = "Conference Presentations"
+
+
+[[items]]
+group = "2026"
+content = """
+- **Zhao, Q.**, Breves, P. L., van Berlo, Z. M. C., & Strycharz, J. (2026, June 25-27). *Does Diversity Representation Matter? Examining How Parasocial Interaction and Influencer Virtuality Shape Dual Attitudes*. 24th International Conference on Research in Advertising (ICORIA), Barelona, Spain.
+- **Zhao, Q.**, Breves, P. L., van Berlo, Z. M. C., & Strycharz, J. (2026, June 4-8). *How Influencer Diversity and Virtuality Shape Dual Attitudes? From Parasocial Interactions to Parasocial Relationships*. 76th International Communication Association (ICA) Conference, Cape Town, South Africa.
+- **Zhao, Q.**, Breves, P. L., van Berlo, Z. M. C., & Strycharz, J. (2026, February 5-6). *Diversity representation in influencer marketing and the role of influencer virtuality*. Etmaal van de Communicatiewetenschap 2026, Papendal, Netherlands.
+"""
+images = ["/conference_img/ica26_1.JPG", "/conference_img/ica26_2.jpg"]
+
+[[items]]
+group = "2025"
+content = """
+- Breves, P. L., **Zhao, Q.**, & van Berlo, Z. M. C. (2025, June 26-28). *The development and effects of parasocial relationships with virtual vs. human influencers: An experience sampling study*. 23th International Conference on Research in Advertising (ICORIA), Rotterdam, Netherlands.
+"""

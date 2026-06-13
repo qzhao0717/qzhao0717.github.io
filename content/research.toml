@@ -1,0 +1,63 @@
+type = "card"
+title = "Research Experiences"
+
+[[items]]
+group = "Work Under Review"
+content = "Pfeuffer, A., Phua, J., Pfiffelmann, J., & **Zhao, Q.** (Under review). Reaching the Vaccine-Averse: A Multi-Method Investigation of Trust Cue Effects in Social Media Vlogs about Vaccinations."
+
+########## PhD
+[[items]]
+group = "PhD Researcher"
+title = "Algorithmic Persuasion on TikTok: A Differential Vulnerability Perspective"
+subtitle = "Amsterdam School of Communication Research (ASCoR)"
+content = "Collaborators & Supervisors: Dr. H.A.M. (Hilde) Voorveld, Dr J. (Joanna) Strycharz, Dr. C.S. (Corine) Meppelink, Dr. P.L. (Priska) Breves"
+date = "02/2026 - present"
+tags = ["TikTok", "Algorithm", "Mixed-method", "Data donation", "Eye-tracking", "Survey", "Experiment"]
+
+########## RA
+[[items]]
+group = "Research Assistant"
+title = "Exploring Persuasion via Parasocial Relationships with (Virtual) Influencers"
+subtitle = "Amsterdam School of Communication Research (ASCoR)"
+content = """
+- Supervisors: [Dr. P.L. (Priska) Breves](https://www.uva.nl/en/profile/b/r/p.l.breves/p.l.breves.html), [Dr. Z.M.C. (Zeph) van Berlo](https://www.uva.nl/profiel/b/e/z.m.c.vanberlo/z.m.c.van-berlo.html)
+- Work presented at ICORIA 2025, Etmaal 2026, ICA 2026, and ICORIA 2026
+"""
+date = "02/2025 - present"
+tags = ["Experience Sampling Method", "Experiment", "Longitudinal", "R", "Virtual influencer"]
+
+[[items]]
+group = "Research Assistant"
+title = "A Multi-Method Investigation of Trust Cue Effects in Social Media Vlogs about Vaccinations"
+subtitle = "Amsterdam School of Communication Research (ASCoR)"
+content = "Supervisor: [Dr. A.P. (Alexander) Pfeuffer](https://www.uva.nl/en/profile/p/f/a.pfeuffer/a.pfeuffer.html)"
+date = "03/2023 - 08/2023"
+tags = ["Mixed-method", "Focus group", "Trust", "Interpersonal communication", "Atlas.ti"]
+
+[[items]]
+group = "Research Assistant"
+title = "The Effect of Faces in Human-robot Interaction In the Age of Social Robots"
+subtitle = "Amsterdam School of Communication Research (ASCoR)"
+content = "Supervisor: Navya Sharan"
+date = "06/2023 - 10/2023"
+tags = ["Experiment", "HCI", "Cozmo", "Robot"]
+
+########## Researcher
+[[items]]
+group = "Researcher"
+title = "Using ‘Digital Forensic Gaze’ and Digital Methods to Explore Deepfakes"
+subtitle = "Digital Methods Summer School, University of Amsterdam"
+content = "Supervisors: [N.B. (Natalia) Stanusch](https://www.uva.nl/en/profile/s/t/n.b.stanusch/n.b.stanusch.html), [Prof. dr. R.A. (Richard) Rogers](https://www.uva.nl/en/profile/r/o/r.a.rogers/r.a.rogers.html)"
+date = "07/2024"
+tags = ["Deepfake", "AI-generated", "Network analysis", "Gephi", "Data visualization"]
+images = ["/research_img/deepfake1.jpeg", "/research_img/deepfake2.jpeg"]
+
+
+[[items]]
+group = "Researcher"
+title = "Coding, prompting,“deprompting”: Testing AI generated images against the “broken telephone” game, based on images from the Ad Library Political Observatory"
+subtitle = "Digital Methods Summer School, University of Amsterdam"
+date = "07/2024"
+tags = ["AI-generated", "Prompts", "Meta", "Bias"]
+
+

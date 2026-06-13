@@ -1,9 +1,47 @@
 type = "card"
 title = "Services"
-description = "Professional services and community involvement."
+# description = "Professional services and community involvement."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
+title = "Cutting-edge Communication Research (CeCoR) Organising Committee"
+subtitle = "Amsterdam School of Communication Research, University of Amsterdam"
+date = "05/2026 - present"
+link = "https://ascor.uva.nl/events/cecor/cutting-edge-communication-research-at-ascor.html"
+
+[[items]]
+title = "EAA Communication Committee"
+subtitle = "European Advertising Academy"
+date = "04/2026 - present"
+link = "https://www.europeanadvertisingacademy.org/about-the-eaa/"
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ICA, ICORIA"
+date = "2026"
+content = """
+- Reviewed papers for 76th International Communication Association Annual Conference (Cape Town, South Africa)
+- Reviewed papers for 24th International Conference on Research in Advertising (Barcelona, Spain)
+"""
+
+[[items]]
+title = "Member"
+subtitle = "EAA, AAA, APA"
+date = "2025-present"
+content = """
+- European Advertising Academy
+- American Academy of Advertising 
+- American Psychological Association
+"""
+
+[[items]]
+title = "Volunteer"
+subtitle = "DGPuK Advertising Communication Conference (Amsterdam, the Netherlands)"
 date = "2024"
-content = "Reviewed papers for..."
+link = "https://www.werbekommunikation2024.com/"
+images = ["/services_img/dgpuk1.jpeg", "/services_img/dgpuk2.jpeg"]
+
+[[items]]
+title = "Volunteer"
+subtitle = "Serve the City Amsterdam"
+date = "2023"
+link = "https://www.stcamsterdam.nl/"

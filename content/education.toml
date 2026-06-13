@@ -1,0 +1,36 @@
+type = "card"
+title = "Education"
+
+[[items]]
+title = "PhD in Communication Science"
+subtitle = "Amsterdam School of Communication Research (ASCoR), University of Amsterdam"
+date = "02/2026 - Present"
+content = """
+- Supervisors: [Dr. H.A.M. (Hilde) Voorveld](https://www.uva.nl/profiel/v/o/h.a.m.voorveld/h.a.m.voorveld.html?cb), [Dr J. (Joanna) Strycharz](https://www.uva.nl/en/profile/s/t/j.strycharz/j.strycharz.html), and [Dr. C.S. (Corine) Meppelink](https://www.uva.nl/en/profile/m/e/c.s.meppelink/c.s.meppelink.html)
+- Persuasive Communication Group (Persuasion and New Media Technologies)
+- Project funded by The Dutch Research Council (NWO)
+"""
+
+[[items]]
+title = "rMSc in Communication Science (Research Master)"
+subtitle = "Faculty of Social and Behavioural Sciences, University of Amsterdam"
+date = "02/2024 - 02/2026"
+content = """
+- Cum Laude (Distinction)
+- Digital Communication Methods lab
+- Supervisors: [Dr. P.L. (Priska) Breves](https://www.uva.nl/en/profile/b/r/p.l.breves/p.l.breves.html), [Dr. Z.M.C. (Zeph) van Berlo](https://www.uva.nl/profiel/b/e/z.m.c.vanberlo/z.m.c.van-berlo.html)
+"""
+
+[[items]]
+title = "BSc in Communication Science"
+subtitle = "Faculty of Social and Behavioural Sciences, University of Amsterdam"
+date = "09/2022 - 02/2024"
+
+[[items]]
+title = "BA in Advertising"
+subtitle = "Faculty of Arts and Communication, China Jiliang University"
+date = "09/2018 - 06/2022"
+content = """
+- Distinction
+- Outstanding Graduate
+"""

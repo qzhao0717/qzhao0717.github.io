@@ -1,10 +1,18 @@
 type = "card"
-title = "Teaching"
-description = "Courses I have taught or assisted with."
+title = "Teaching & Talk"
+# description = "My teaching experience at the University of Amsterdam."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "Guest Lecturer, Experimentation in Social Sciences"
+subtitle = "Research Master’s Program in Communication Science, University of Amsterdam"
+date = "05/2026"
+# content = "Content."
+tags = ["Graduate", "Experiment"]
+
+[[items]]
+title = "Teaching Assistant, BSc Computational Social Science (60 ECTs)"
+subtitle = "Faculty of Social and Behavioural Sciences, University of Amsterdam"
+date = "08/2024 - 07/2025"
+content = "Assisted in delivering interdisciplinary, research-intensive courses on societal issues and behavioural interventions. Organized workshops on academic writing and research ethics. Provided feedback on research proposal, research methods, literature review, data analysis and reporting. Content of this bachelor program can be found [here](https://www.uva.nl/en/programmes/bachelors/computational-social-science/computational-social-science.html)."
+tags = ["Undergraduate", "Computational Social Science", "CSS"]
+image = "/teaching_img/ta_css.jpeg"
