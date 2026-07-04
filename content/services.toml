@@ -3,16 +3,16 @@ title = "Services"
 # description = "Professional services and community involvement."
 
 [[items]]
+title = "EAA Communication Committee"
+subtitle = "European Advertising Academy"
+date = "05/2026 - present"
+link = "https://www.europeanadvertisingacademy.org/about-the-eaa/eaa-communication-committee/"
+
+[[items]]
 title = "Cutting-edge Communication Research (CeCoR) Organising Committee"
 subtitle = "Amsterdam School of Communication Research, University of Amsterdam"
 date = "05/2026 - present"
 link = "https://ascor.uva.nl/events/cecor/cutting-edge-communication-research-at-ascor.html"
-
-[[items]]
-title = "EAA Communication Committee"
-subtitle = "European Advertising Academy"
-date = "05/2026 - present"
-link = "https://www.europeanadvertisingacademy.org/about-the-eaa/"
 
 [[items]]
 title = "Conference Reviewer"
