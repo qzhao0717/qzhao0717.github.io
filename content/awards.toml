@@ -3,33 +3,39 @@ title = "Awards and Grants"
 # description = "Honors and awards I have received."
 
 [[items]]
-title = "Social and Behavioural Data Science Centre Travel Grant (€500)"
+title = "Social and Behavioural Data Science Centre Travel Grant"
 subtitle = "Faculty of Social and Behavioural Sciences, University of Amsterdam"
+content = "€500"
 date = "2026"
 
 [[items]]
-title = "Digital Communication Methods Lab Thesis Grant (€500)"
+title = "Digital Communication Methods Lab Thesis Grant"
 subtitle = "Amsterdam School of Communication Research, University of Amsterdam"
+content = "€500"
 date = "2025"
 link = "https://digicomlab.github.io/thesisgrant/theses/2025_zhao/"
 
 [[items]]
-title = "International Conference on Research in Advertising (ICORIA) Student Grant (€415, one of two recipients)"
+title = "International Conference on Research in Advertising (ICORIA) Student Grant"
 subtitle = "European Advertising Academy"
+content = "€415, one of two recipients"
 date = "2025"
 link = "https://www.europeanadvertisingacademy.org/winners-of-the-icoria-student-grant-2025/"
 
 [[items]]
-title = "China National Scholarship (Top 0.2%, ¥8000 ≈ €1000)"
+title = "China National Scholarship"
 subtitle = "Ministry of Education of the People's Republic of China"
+content = "Top 0.2%, ¥8000 ≈ €1000"
 date = "2021"
 
 [[items]]
-title = "Zhejiang Provincial Government Scholarship (Top 2%, 2 times, ¥12000/ ≈ €1500)" 
+title = "Zhejiang Provincial Government Scholarship" 
 subtitle = "The People's Government of Zhejiang Province"
+content = "Top 2%, 2 times, ¥12000/ ≈ €1500"
 date = "2019-2020"
 
 [[items]]
-title = "Undergraduate Academic Scholarship (Top 4%, 4 times, ¥8000 ≈ €1000)" 
+title = "Undergraduate Academic Scholarship" 
 subtitle = "China Jiliang University"
+content = "Top 4%, 4 times, ¥8000 ≈ €1000"
 date = "2018-2022"
